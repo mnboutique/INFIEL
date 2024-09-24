@@ -74,8 +74,8 @@ body {
 /* Shop Link */
 .shop-link {
     display: inline-block;
-    background-color: #333;
-    color: #fff;
+    /* background-color: #333; */
+    color: #000000;
     padding: 8px 15px;
     border-radius: 20px;
     text-decoration: none;
